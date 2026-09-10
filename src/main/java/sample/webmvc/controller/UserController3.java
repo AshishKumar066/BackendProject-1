@@ -5,13 +5,13 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 @Controller
-@RequestMapping("/electronics")
-public class UserController {
+@RequestMapping("/kitchen")
+public class UserController3 {
 
 	@RequestMapping("/")
 	public String greet() {
 		System.out.println("UserController.greet()");
-		return "welcome";
+		return "kitchen";
 
 	}
 
