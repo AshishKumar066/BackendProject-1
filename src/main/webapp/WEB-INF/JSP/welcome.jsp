@@ -10,7 +10,6 @@
 
 
 	<h1>Hello User This is your welcome web Page</h1>
-	<h2>Hello User This is your name: ${user} </h2>
 
 
 </body>
