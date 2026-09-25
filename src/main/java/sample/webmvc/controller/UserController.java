@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @RequestMapping("/electronics")
 public class UserController {
 
-	@RequestMapping("/")
+	@RequestMapping({"","/"})
 	public String greet() {
 		System.out.println("UserController.greet()");
 		return "welcome";
