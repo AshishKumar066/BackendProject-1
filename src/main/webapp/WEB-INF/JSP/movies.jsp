@@ -8,9 +8,7 @@
 </head>
 <body bgcolor="green">
 
-
 	<h1>Hello User This is your Hotstar Movie web Page</h1>
-
 
 </body>
 </html>
